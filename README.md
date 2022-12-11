@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [gabriel.ventorims@usp.br](mailto:gabriel.ventorims@usp.br)
+* ✉️  You can contact me at [gabriel.ventorims@gmail.com](mailto:gabriel.ventorims@gmail.com)
 
 ### Skills
 
