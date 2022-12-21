@@ -1,4 +1,4 @@
-Hi👋, my name is Gabriel Ventorim Silva
+Hi, my name is Gabriel Ventorim Silva and this my GitHub space!
 ==============================================================================================================================================
 
 * 🌍  I'm based in Brazil
