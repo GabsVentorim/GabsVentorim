@@ -1,4 +1,4 @@
-Hi, i'm Gabriel Ventorim Silva.
+Hi, i'm Gabriel Ventorim Silva 👋
 <br><br>
 And this is my GitHub space!
 ==============================================================================================================================================
