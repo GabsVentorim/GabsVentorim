@@ -39,3 +39,10 @@ And this is my GitHub space!
   
   
 </div>
+
+
+<div>
+![](https://github-readme-stats.vercel.app/api?username=codelooper&show_icons=true&hide_border=true)
+
+<img align="bottom" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codelooper&layout=compact&theme=dark"/>
+</div>
