@@ -40,7 +40,7 @@ And this is my GitHub space!
   
 </div>
 
-
+<br><br>
 <div>
 <img align="bottom" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GabsVentorim&layout=compact&theme=dark"/>
 </div>
