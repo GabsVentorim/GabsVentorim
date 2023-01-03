@@ -1,4 +1,4 @@
-Hi 👋 My name is Gabriel Ventorim Silva
+Hi👋, my name is Gabriel Ventorim Silva
 =======================================
 
 
