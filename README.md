@@ -1,7 +1,7 @@
-<b>Hi, I'm Gabriel Ventorim Silva <b>👋
-<br><br>
+Hi 👋 My name is Gabriel Ventorim Silva
+=======================================
 
-==============================================================================================================================================
+
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [gabriel.ventorims@gmail.com](mailto:gabriel.ventorims@gmail.com)
