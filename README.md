@@ -1,7 +1,5 @@
-Hi👋, my name is Gabriel Ventorim Silva
+Hi, my name is Gabriel Ventorim Silva
 =======================================
-
-
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [gabriel.ventorims@gmail.com](mailto:gabriel.ventorims@gmail.com)
@@ -32,9 +30,7 @@ Hi👋, my name is Gabriel Ventorim Silva
 
 <!-- <a href="http://www.github.com/GabsVentorim"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabsVentorim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-
-![Snake animation](https://github.com/GabsVentorim/GabsVentorim/blob/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://github.com/<GabsVentorim>/<GabsVentorim>/blob/output/github-contribution-grid-snake2.svg)
 
 <br><br>
 <div>
