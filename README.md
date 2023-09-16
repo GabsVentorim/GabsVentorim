@@ -35,4 +35,4 @@ Hi, my name is Gabriel!
 ![snake animation](https://github.com/<GabsVentorim>/<GabsVentorim>/blob/output/github-contribution-grid-snake2.svg)
 -->
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsVentorim&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsVentorim&layout=dracula)
